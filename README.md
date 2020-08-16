@@ -2,11 +2,11 @@
 
 ## Overview of the school district analysis
 
-The school board was notified about potential academic dishonesty, specifically, for Thomas High School (“THS” thereafter). All reading and math grades for 9th graders appear to have been altered. The purpose of this analysis is to see the impact on the original analysis results our previous results once we excluded the THS 9th graders’ scores from the overall analysis. 
+The school board was notified about potential academic dishonesty, specifically, for Thomas High School (“THS” thereafter). All reading and math grades for 9th graders appear to have been altered. The purpose of this analysis is to see the impact on the original analysis results our previous results once we exclude the THS 9th graders’ scores. 
 
 ## Approach
 
-For this particular analysis we replaced all math and reading scores for THS with NaNs (missing values). It is important to note that this is not the same as making these grades equal to zero. The below link/image provides a high-level view of the impact of NaNs vs. zero on the overall average math and reading grades for all schools in total. After we applied NaNs, we then excluded THS 9th graders scores from our analysis altogether. 
+For this particular analysis we replaced all math and reading scores for THS 9th graders with NaNs (missing values). It is important to note that this is not the same as making these grades equal to zero. The below link/image provides a high-level view of the impact of NaNs vs. zero on the overall average math and reading grades for all schools in total. After we applied NaNs, we then excluded THS 9th graders scores from our analysis altogether. 
 https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/sumamry_level_check_nan_zero_all_schools.PNG
 
 
@@ -23,6 +23,7 @@ https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20
 Although we did not see any drastic changes in our high-level view, we can see more impact once we look at the school level. Before the adjusted grades, THS was the second-best school by the overall passing percentage. Updating grades with NaNs shifted THS towards middle. It is no longer in top 5 schools, but it also not in bottom 5 schools either. Removing THS 9th graders put the school back to the second best spot.
 https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/top_five_schools_overall_passing.PNG
 
+
 ***Grades Level by School***
 
 We confirmed that using NaNs had no impact on any averages other than 9th graders average for math and reading. Overall reading score for all 9th graders from all schools, however, went down from 81.9 to 81.8. Overall math score changed from 78.9 to 78.7 (9th graders only). Removing THS 9th graders put all THS's metrics back to what we see in our original analysis.
@@ -34,7 +35,7 @@ https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20
 ***School Spending***
 
 We also see changes in the spending per student cohort. Based on the budget and number of students, THS is categorized in $630-644 spend per student “bucket”. We see changes in this category. The overall passing for this group went down from 63% to 54%. Removing THS 9th graders data from analysis shows spending per bucket at the same level as pre-9th grade adjustment.
-https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_spending_per_student.PNG
+![score average] https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_spending_per_student.PNG
 
 
 ***Scores by school size***
