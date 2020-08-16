@@ -50,7 +50,7 @@ https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20
 
 ## Summary:
 
-We see that all grades at THU had very high scores. If 9th graders results were indeed altered, it would not have much difference on the overall school’s performance. For the final analysis we excluded all THU 9th graders’ scores and headcount, which showed minimal impact on the overall results. If we were to keep the 9th graders scores as NaNs values, we can see from the above-mentioned analysis that it would change our outcome:
+We see that all grades at THS had very high scores. If 9th graders results were indeed altered, it would not have much difference on the overall school’s performance. For the final analysis we excluded all THU 9th graders’ scores and headcount, which showed minimal impact on the overall results. If we were to keep the 9th graders scores as NaNs values, we can see from the above-mentioned analysis that it would change our outcome:
 
 1.	THU would no longer be in top 5 performing schools
 2.	Passing math percentage would be
