@@ -58,7 +58,7 @@ Because THS is a charter school, at first we also saw overall passing percentage
 ![](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_type.PNG)
 
 
-## Summary:
+## Summary
 
 We see that all grades at THS had very high scores. If 9th graders results were indeed altered, removing them did not have much difference on the overall school’s performance. For the final analysis we excluded all THS 9th graders’ scores and headcount, which showed minimal impact on the overall results. If we were to keep the 9th graders scores as NaNs values, we can see from the above-mentioned analysis that it would change every aspect of our outcome:
 
@@ -71,4 +71,4 @@ We see that all grades at THS had very high scores. If 9th graders results were 
 
 ## Conclusion
 
-We hope school district investigates and finds out if score alteartion indeed happened. And to the rest of students - **KEEP UP THE GREAT WORK!** :)
+We hope school district investigates and finds out if score alteartion indeed happened. And to the rest of students - **KEEP UP THE GREAT WORK!**
