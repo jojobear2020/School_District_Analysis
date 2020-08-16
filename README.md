@@ -60,10 +60,15 @@ Because THS is a charter school, at first we also saw overall passing percentage
 
 ## Summary:
 
-We see that all grades at THS had very high scores. If 9th graders results were indeed altered, it would not have much difference on the overall school’s performance. For the final analysis we excluded all THU 9th graders’ scores and headcount, which showed minimal impact on the overall results. If we were to keep the 9th graders scores as NaNs values, we can see from the above-mentioned analysis that it would change our outcome:
+We see that all grades at THS had very high scores. If 9th graders results were indeed altered, removing them did not have much difference on the overall school’s performance. For the final analysis we excluded all THS 9th graders’ scores and headcount, which showed minimal impact on the overall results. If we were to keep the 9th graders scores as NaNs values, we can see from the above-mentioned analysis that it would change every aspect of our outcome:
 
-1.	THU would no longer be in top 5 performing schools
-2.	Passing math percentage would be
-3.	Passing reading percentage would be
-4.	Overall passing percentage would be
+1.	THS would no longer be in top 5 performing schools;
+2.	Passing math percentage would be 66.911% only 
+3.	Passing reading percentage would be 69.663% only
+4.	Overall passing percentage would be 65.076% only
 5.	It would also impact our results for analysis by school size, spend per student, and school type.
+
+
+## Conclusion
+
+We hope school district investigates and finds out if score alteartion indeed happened. And for the rest of students - KEEP UP THE GREAT WORK! :)
