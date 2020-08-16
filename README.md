@@ -63,9 +63,9 @@ Because THS is a charter school, at first we also saw overall passing percentage
 We see that all grades at THS had very high scores. If 9th graders results were indeed altered, removing them did not have much difference on the overall school’s performance. For the final analysis we excluded all THS 9th graders’ scores and headcount, which showed minimal impact on the overall results. If we were to keep the 9th graders scores as NaNs values, we can see from the above-mentioned analysis that it would change every aspect of our outcome:
 
 1.	THS would no longer be in top 5 performing schools;
-2.	Passing math percentage would be 66.911% only 
-3.	Passing reading percentage would be 69.663% only
-4.	Overall passing percentage would be 65.076% only
+2.	Passing math percentage would be 66.911% only vs. 93.186%
+3.	Passing reading percentage would be 69.663% only vs. 97.019%
+4.	Overall passing percentage would be 65.076% only vs. 90.630%
 5.	It would also impact our results for analysis by school size, spend per student, and school type.
 
 
