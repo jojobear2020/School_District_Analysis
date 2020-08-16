@@ -23,6 +23,7 @@ Once we replaced all THS 9th graders’ math and reading scores with NaNs, we ca
 ***Schools Level - Top and Bottom Five***
 
 Although we did not see any drastic changes in our high-level view, we can see more impact once we look at the school level. Before the adjusted grades, THS was the second-best school by the overall passing percentage. Updating grades with NaNs shifted THS towards middle. It is no longer in top 5 schools, but it also not in bottom 5 schools either. Removing THS 9th graders put the school back to the second best spot.
+
 ![](tps://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/top_five_schools_overall_passing.PNG)
 
 
@@ -30,25 +31,30 @@ Although we did not see any drastic changes in our high-level view, we can see m
 
 We confirmed that using NaNs had no impact on any averages other than 9th graders average for math and reading. Overall reading score for all 9th graders from all schools, however, went down from 81.9 to 81.8. Overall math score changed from 78.9 to 78.7 (9th graders only). Removing THS 9th graders put all THS's metrics back to what we see in our original analysis.
 
-https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_removing_9th_graders.png
-https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_NaN_impact.png
-https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_pre-NaN.png
+![THS Summary after removing 9th graders scores](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_removing_9th_graders.png)
+
+![THS Summary - impact of keeping NaNs](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_NaN_impact.png)
+
+![THS Summary - original results](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_pre-NaN.png)
 
 
 ***School Spending***
 
 We also see changes in the spending per student cohort. Based on the budget and number of students, THS is categorized in $630-644 spend per student “bucket”. We see changes in this category. The overall passing for this group went down from 63% to 54%. Removing THS 9th graders data from analysis shows spending per bucket at the same level as pre-9th grade adjustment.
+
 ![](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_spending_per_student.PNG)
 
 
 ***Scores by school size***
 
 In our analysis we also looked at schools by grouping them based on the number of students. Based on our categorization, THS is a mid-size school and consequently we see changes in this group metrics. If we account for 9th graders, then overall passing percentage goes down from 91% to 85%. Replacing data for THS by using only grades 10th thru 12th puts the group numbers on about the same level as before.
+
 ![](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_size.PNG)
 
 ***Scores by school type***
 
 Because THS is a charter school, at first we also saw overall passing percentage drop for this group. However, replacing THS data with the 10th thru 12th graders shows very minimal impact on the overall metrics.
+
 ![](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_type.PNG)
 
 
