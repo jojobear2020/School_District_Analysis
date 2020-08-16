@@ -24,7 +24,7 @@ Once we replaced all THS 9th graders’ math and reading scores with NaNs, we ca
 
 Although we did not see any drastic changes in our high-level view, we can see more impact once we look at the school level. Before the adjusted grades, THS was the second-best school by the overall passing percentage. Updating grades with NaNs shifted THS towards middle. It is no longer in top 5 schools, but it also not in bottom 5 schools either. Removing THS 9th graders put the school back to the second best spot.
 
-![](tps://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/top_five_schools_overall_passing.PNG)
+![](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/top_five_schools_overall_passing.PNG)
 
 
 ***Grades Level by School***
@@ -33,9 +33,9 @@ We confirmed that using NaNs had no impact on any averages other than 9th grader
 
 ![THS Summary after removing 9th graders scores](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_removing_9th_graders.png)
 
-![THS Summary - impact of keeping NaNs](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_NaN_impact.png)
+https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_NaN_impact.png
 
-![THS Summary - original results](https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_pre-NaN.png)
+https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/THS_summary_results_pre-NaN.png
 
 
 ***School Spending***
