@@ -6,7 +6,7 @@ The school board was notified about potential academic dishonesty, specifically,
 
 ## Approach
 
-For this particular analysis we replaced all math and reading scores for THS with NaNs (missing values). It is important to note that this is not the same as making these grades equal to zero. The below link/image provides a high-level view of the impact of NaNs vs. zero on the overall average math and reading grades for all schools in total. We then excluded THU 9th graders scores from our analysis altogether. 
+For this particular analysis we replaced all math and reading scores for THS with NaNs (missing values). It is important to note that this is not the same as making these grades equal to zero. The below link/image provides a high-level view of the impact of NaNs vs. zero on the overall average math and reading grades for all schools in total. After we applied NaNs, we then excluded THS 9th graders scores from our analysis altogether. 
 https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/sumamry_level_check_nan_zero_all_schools.PNG
 
 
