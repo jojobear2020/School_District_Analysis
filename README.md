@@ -35,7 +35,7 @@ https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20
 ***School Spending***
 
 We also see changes in the spending per student cohort. Based on the budget and number of students, THS is categorized in $630-644 spend per student “bucket”. We see changes in this category. The overall passing for this group went down from 63% to 54%. Removing THS 9th graders data from analysis shows spending per bucket at the same level as pre-9th grade adjustment.
-![score average] https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_spending_per_student.PNG
+![score average] (https://github.com/jojobear2020/School_District_Analysis/blob/master/Analysis%20Results/score_averages_by_school_spending_per_student.PNG)
 
 
 ***Scores by school size***
