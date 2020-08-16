@@ -71,4 +71,4 @@ We see that all grades at THS had very high scores. If 9th graders results were 
 
 ## Conclusion
 
-We hope school district investigates and finds out if score alteartion indeed happened. And for the rest of students - KEEP UP THE GREAT WORK! :)
+We hope school district investigates and finds out if score alteartion indeed happened. And to the rest of students - **KEEP UP THE GREAT WORK!** :)
