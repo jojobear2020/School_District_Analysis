@@ -71,6 +71,6 @@ We see that all grades at THS had very high scores. If 9th graders results were 
 
 ## Conclusion
 
-We hope school district investigates and finds out if score alteartion indeed happened. Despite controversy around THS 9th graders scores, school earned it's second best spot regardless. 
+Despite controversy around its 9th graders scores, Thomas High School school earned it's second best spot regardless. 
 
-To all students - **KEEP UP THE GREAT WORK!**
+To all students from all schools - **KEEP UP THE GREAT WORK!**
